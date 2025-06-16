@@ -1,7 +1,3 @@
-Sure! Here's a more polished and appealing version of your README:
-
----
-
 # ✅ Advance Wars 2 - SuperCard SD Fix Patch
 
 This is an **IPS patch** designed for the **USA version** of *Advance Wars 2: Black Hole Rising*.
