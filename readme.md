@@ -29,8 +29,7 @@ Enjoy the classic strategy experience!
 
 ## Credits
 
-[eebit's partial rom decomp](https://github.com/Eebit/aw2bhr)
+- [eebit's partial rom decomp](https://github.com/Eebit/aw2bhr)
     - Used to find sub routine that caused crash
-
-[Veslyquix's GBAFE Lua Tool]([https://github.com/Eebit/aw2bhr](https://github.com/Veslyquix/GBAFE-LuaUtilities)
+- [Veslyquix's GBAFE Lua Tool](https://github.com/Veslyquix/GBAFE-LuaUtilities)
     - Used to check what proc is running at a given time
